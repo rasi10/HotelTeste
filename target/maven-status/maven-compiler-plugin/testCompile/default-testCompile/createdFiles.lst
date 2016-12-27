@@ -1,0 +1,7 @@
+com/br/pages/AddBedroomPage.class
+com/br/pages/CreateNewBedroomForm.class
+com/br/pages/MenuPage.class
+com/br/tests/NavigateMenusTest.class
+com/br/tests/LoginTest.class
+com/br/tests/CreateBedroomTest.class
+com/br/pages/LoginPage.class
